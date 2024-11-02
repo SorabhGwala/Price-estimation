@@ -11,11 +11,12 @@ function App() {
    
     <Nav2bar/>
     <Home/>
-    <Login/>
-    <Footer/>
+    {/* <Login/> */}
     <Product/>
-
+    <Footer/>
     
+
+
     </div>
   );
 }

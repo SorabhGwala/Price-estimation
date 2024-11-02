@@ -6,6 +6,7 @@ const Home = () => {
     <div className='w-full h-dvh grid   gap-4 content-center justify-center  align-baseline text-white'>
     <div className=' text-3xl md:text-6xl font-bold grid justify-center items-center' >
      <div >
+      
 
       <span >The </span><span className='text-[#47c16c]'>Centerlized </span><span>Effective</span>
      </div>
@@ -22,6 +23,7 @@ const Home = () => {
          <h1 className='text-gray-500 font-semibold  mx-5' >  Search . . . .</h1>
          <button className='  border-solid border-2 border-slate-500 rounded-xl px-7 py-3 bg-[#8142f2] font-bold hover:bg-[#9a67f4]' type="button">Search</button> </div> 
     </div>
+  
     </div>
     </section>
   )
