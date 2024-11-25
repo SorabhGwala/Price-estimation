@@ -4,9 +4,9 @@ const Nav2bar = () => {
   return (
     <div>
       <section >
-        <nav className=' bg-[#282c34] text-white flex  z-1 justify-around items-center  w-full h-20  border-solid border-3 border-white shadow-xl fixed'>
+         <nav className=' bg-[#282c34] text-white flex  z-10 justify-around items-center  w-full h-20  border-solid border-3 border-white shadow-xl fixed'>
             <div className='flex'>
- 
+
              <h1  className='font-semibold font-serif  bg-gradient-to-r from-indigo-500 via-purple-500 to-[#3494e6] bg-clip-text text-transparent  ' ><span className='text-3xl'>T</span>he <span className='text-3xl '>P</span>redictors</h1>
             </div>
             

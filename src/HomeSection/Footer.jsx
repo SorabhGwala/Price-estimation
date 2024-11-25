@@ -6,9 +6,9 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import { Button, Typography } from '@mui/material';
 const Footer = () => {
   return (
-    <div className='flex justify-center'>
-    <div className=' text-white w-[97vw] h-[50vh] border-2 border-white rounded-xl 
-     shadow-md shadow-green-400  bg-gradient-to-b from-green-700 via-green-950 to-black text-start   ' >
+    <div className='flex justify-center '>
+    <div className=' text-white w-[90vw] h-[50vh] border-2 border-white rounded-xl 
+     shadow-md shadow-green-400  bg-gradient-to-b from-green-700 via-green-950 to-black  text-start   ' >
    <div className=' flex justify-around flex-wrap' >
    <div> <h1 className='text-gray-400 font-semibold text-xl m-3  md:text-xl '> PRODUCT</h1>
           <h6>Microwave Device</h6>

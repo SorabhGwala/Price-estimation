@@ -1,3 +1,16 @@
+// export const mens_kurta = [
+//   {
+//     id: 1,
+//     name: 'Nike Air MX Super 2500 - Red',
+//     price: 449,
+//     oldPrice: 699,
+//     image: '/ptron-newly-launched-fusion-bold.png',
+//     rating: 5,
+//   },
+//   // Add more products here
+// ];
+
+
 export const mens_kurta=[
     {
         "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l5h2xe80/kurta/x/6/n/xl-kast-tile-green-majestic-man-original-imagg4z33hu4kzpv.jpeg?q=70",
@@ -27,6 +40,7 @@ export const mens_kurta=[
           "thirdLavelCategory": "mens_kurta",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
+    
     {
         "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/l/f/r/xl-k-spl668-yellow-sg-leman-original-imagznqcrahgq9rf.jpeg?q=70",
         "brand": "SG LEMAN",
