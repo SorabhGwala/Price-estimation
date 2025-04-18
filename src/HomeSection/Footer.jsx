@@ -6,7 +6,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import { Button, Typography } from '@mui/material';
 const Footer = () => {
   return (
-    <div className='flex justify-center '>
+    <div className='flex justify-center mt-4 '>
     <div className=' text-white w-[90vw] h-[50vh] border-2 border-white rounded-xl 
      shadow-md shadow-green-400  bg-gradient-to-b from-green-700 via-green-950 to-black  text-start   ' >
    <div className=' flex justify-around flex-wrap' >

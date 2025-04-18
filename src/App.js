@@ -5,7 +5,7 @@ import Login from './HomeSection/Login';
 import PriceTracker from './HomeSection/PriceTracker';
 import About from './HomeSection/ProductCart.jsx/About';
 import CardComplete from './HomeSection/ProductCart.jsx/CardComplete';
-// import ProductCart1 from './HomeSection/ProductCart.jsx/ProductCard1';
+import ProductCard1 from './HomeSection/ProductCart.jsx/ProductCard1';
 // import Card3 from './HomeSection/ProductCart.jsx/ProductCard1';
 import Cart from './HomeSection/ProductCart.jsx/Cart';
 // import Cart21 from './HomeSection/ProductCart.jsx/Cart21';
@@ -21,8 +21,8 @@ function App( product) {
     <Nav2bar/>
     <Home/>
     {/* <PriceTracker productId="123456" /> */}
-    {/* <ProductCart1/> */}
-    {/* <CardComplete product={product} />; */}
+    <ProductCard1/>
+        <CardComplete product={product} />;
     <About/>
     
     
